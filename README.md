@@ -13,7 +13,7 @@
 
 ## About
 
-I build and maintain production backends for real clients and for my own products. Independent, through Obsydian Systems NI. Most of my code is private, so my public repos are mostly experiments and practice projects. See the [portfolio](https://personal-portfolio-xecy.onrender.com) for the real work.
+I build and maintain production backends for real clients and for my own products. Independent. Most of my code is private, so my public repos are mostly experiments and practice projects. See the [portfolio](https://personal-portfolio-xecy.onrender.com) for the real work.
 
 I also work on machine learning projects with Python (pandas, scikit-learn), from data cleaning to model tuning and business recommendations.
 
