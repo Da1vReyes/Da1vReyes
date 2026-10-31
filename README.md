@@ -15,6 +15,8 @@
 
 I build and maintain production backends for real clients and for my own products. Independent, through Obsydian Systems NI. Most of my code is private, so my public repos are mostly experiments and practice projects. See the [portfolio](https://personal-portfolio-xecy.onrender.com) for the real work.
 
+I also work on machine learning projects with Python (pandas, scikit-learn), from data cleaning to model tuning and business recommendations.
+
 Available for backend and platform work, on contract or full-time.
 
 ## Selected work
@@ -37,6 +39,8 @@ Available for backend and platform work, on contract or full-time.
 ## Public repos
 
 - [examen-servicios-web](https://github.com/Da1vReyes/examen-servicios-web): full-stack IT asset lending system (Spring Boot, JWT, React). Best public sample
-- [FutbolDBBackend](https://github.com/Da1vReyes/FutbolDBBackend): football database backend (Java)
+- [FutbolDBBackend](https://github.com/Da1vReyes/FutbolDBBackend): REST API for a guess-the-footballer game (Spring Boot, JWT, PostgreSQL, Docker Compose, Swagger, 12 tests)
+- [customer_churn_prediction](https://github.com/Da1vReyes/customer_churn_prediction): end-to-end ML project predicting telecom customer churn: EDA, feature engineering, class imbalance, tuning (Python, scikit-learn). Rebuilt from my NexAfrica ML internship project
+- [Tlacuachip](https://github.com/Da1vReyes/Tlacuachip): hackathon app that guides first-time entrepreneurs from idea to business (React, TypeScript, Express, PostgreSQL)
 - [CursoFinder](https://github.com/Da1vReyes/CursoFinder): course finder (JavaScript)
 - [CalculadoraGraficaTuani](https://github.com/Da1vReyes/CalculadoraGraficaTuani): graphing calculator (Python)
