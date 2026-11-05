@@ -38,6 +38,10 @@ Available for backend and platform work, on contract or full-time.
 
 ## Public repos
 
+- [InterFind](https://github.com/Da1vReyes/InterFind): offline-first iOS app for finding internships. A portfolio-friendly fork of PasaFinder, my 2024 iOS diploma team project, rebuilt without an API: local storage, demo account, new UI and brand (Swift, UIKit, Core Data)
+
+  <a href="https://github.com/Da1vReyes/InterFind"><img src="https://raw.githubusercontent.com/Da1vReyes/InterFind/main/docs/screenshots/showcase.png" width="640" alt="InterFind screens"></a>
+
 - [examen-servicios-web](https://github.com/Da1vReyes/examen-servicios-web): full-stack IT asset lending system (Spring Boot, JWT, React). Best public sample
 - [FutbolDBBackend](https://github.com/Da1vReyes/FutbolDBBackend): REST API for a guess-the-footballer game (Spring Boot, JWT, PostgreSQL, Docker Compose, Swagger, 12 tests)
 - [customer_churn_prediction](https://github.com/Da1vReyes/customer_churn_prediction): end-to-end ML project predicting telecom customer churn: EDA, feature engineering, class imbalance, tuning (Python, scikit-learn). Rebuilt from my NexAfrica ML internship project
