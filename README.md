@@ -11,7 +11,7 @@
 
 I build and run backends that real people depend on, for clients and for my own products. Most of that code is private, so this profile is the trailer: the [portfolio](https://personal-portfolio-xecy.onrender.com) has the full story. I also do machine learning in Python, from messy data to a recommendation someone can act on.
 
-**Now** · Founder of BlackMotion, building a computer vision engine for sports · Icaro Prize at FEE Hackathon Mexico 2026
+**Now** · Founder of BlackMotion, building a computer vision engine for sports 
 
 ## Selected work
 
