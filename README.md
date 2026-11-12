@@ -9,9 +9,17 @@
   <a href="mailto:Da1vreyes@pm.me"><img src="https://img.shields.io/badge/Email-1d1d1f?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
 </p>
 
-I build and run backends that real people depend on, for clients and for my own products. Most of that code is private, so this profile is the trailer: the [portfolio](https://personal-portfolio-xecy.onrender.com) has the full story. I also do machine learning in Python, from messy data to a recommendation someone can act on.
+I build and run backends that real people depend on, for clients and for my own products. The hard parts are written up as case studies with measured results, the public repos below run as-is, and the [portfolio](https://personal-portfolio-xecy.onrender.com) has the full story. I also do machine learning in Python, from messy data to a recommendation someone can act on.
 
 **Now** · Founder of BlackMotion, building a computer vision engine for sports 
+
+## Case studies
+
+| | |
+|---|---|
+| [**No source code. Just the database.**](https://personal-portfolio-xecy.onrender.com/cases/team-care.html) | Rebuilding Team Care's clinic system after the original engineer left with the code: reverse-engineering the database and replacing it one feature at a time, while 8 dental offices kept working. |
+| [**7× faster. Every step measured.**](https://personal-portfolio-xecy.onrender.com/cases/blackmotion.html) | Taking BlackMotion Engine from 127 s to 18.2 s for 40 s of 1080p60 video, on an AMD GPU without CUDA. |
+| [**Log it in a tap. Never open the app.**](https://personal-portfolio-xecy.onrender.com/cases/saldo.html) | Saldo, my iOS money tracker: Back Tap logging, six data model migrations with nothing lost, privacy and accessibility by design. |
 
 ## Selected work
 
@@ -20,7 +28,7 @@ I build and run backends that real people depend on, for clients and for my own 
     <td width="50%" valign="top">
       <a href="https://blackmotioncv.com"><img src="assets/blackmotion.jpg" alt="BlackMotion Engine desktop app showing a tracked player"></a>
       <h3>BlackMotion Engine</h3>
-      Tracks every player in match video so local clubs get pro-level performance data. 0.46× real time on 1080p, on one laptop. In alpha.
+      Tracks every player in match video so local clubs get pro-level performance data. 0.46× real time on 1080p, on one computer per court. In alpha. [Case study](https://personal-portfolio-xecy.onrender.com/cases/blackmotion.html).
       <br><sub><b>Founder</b> · Computer vision · Desktop app</sub>
     </td>
     <td width="50%" valign="top">
@@ -40,7 +48,7 @@ I build and run backends that real people depend on, for clients and for my own 
     <td width="50%" valign="top">
       <img src="assets/teamcare.jpg" alt="Team Care clinical dashboard">
       <h3>Team Care</h3>
-      Clinical platform behind 8 dental offices. Migrated from legacy C# to Python to TypeScript while the clinic kept seeing patients.
+      Clinical platform behind 8 dental offices. Migrated from legacy C# to Python to TypeScript while the clinic kept seeing patients. [Case study](https://personal-portfolio-xecy.onrender.com/cases/team-care.html).
       <br><sub><b>Since 2023</b> · Python · SQL Server · TypeScript</sub>
     </td>
   </tr>
@@ -58,7 +66,7 @@ I build and run backends that real people depend on, for clients and for my own 
 | [**examen-servicios-web**](https://github.com/Da1vReyes/examen-servicios-web) | Full-stack IT asset lending system with role-based access. Best public sample | Spring Boot · JWT · React · MySQL |
 | [**FutbolDBBackend**](https://github.com/Da1vReyes/FutbolDBBackend) | REST API for a guess-the-footballer game: auth, 12 tests, Swagger, Docker Compose | Java 17 · Spring Boot 3 · PostgreSQL |
 | [**customer_churn_prediction**](https://github.com/Da1vReyes/customer_churn_prediction) | End-to-end churn model, rebuilt from my NexAfrica ML internship: 78% of churners caught | Python · pandas · scikit-learn |
-| [**Tlacuachip**](https://github.com/Da1vReyes/Tlacuachip) | Hackathon app that takes first-time founders from idea to business. Icaro Prize | React · TypeScript · Express · PostgreSQL |
+| [**Tlacuachip**](https://github.com/Da1vReyes/Tlacuachip) | Hackathon app that takes first-time founders from idea to business. Icaro Prize. [Live demo](https://tlacuachip.vercel.app) | React · TypeScript · Express · PostgreSQL |
 | [**CursoFinder**](https://github.com/Da1vReyes/CursoFinder) | Course finder | JavaScript |
 | [**CalculadoraGraficaTuani**](https://github.com/Da1vReyes/CalculadoraGraficaTuani) | Graphing calculator | Python |
 
